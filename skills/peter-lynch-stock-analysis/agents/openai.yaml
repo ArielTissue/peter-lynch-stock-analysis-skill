@@ -1,0 +1,4 @@
+display_name: Peter Lynch Stock Analysis
+short_description: Analyze stocks with a Peter Lynch-inspired investing framework.
+default_prompt: Use the Peter Lynch stock analysis framework to evaluate this stock.
+
